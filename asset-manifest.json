@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactnetf/static/css/main.8f4892ba.css",
+    "main.js": "/reactnetf/static/js/main.c2950456.js",
+    "index.html": "/reactnetf/index.html",
+    "main.8f4892ba.css.map": "/reactnetf/static/css/main.8f4892ba.css.map",
+    "main.c2950456.js.map": "/reactnetf/static/js/main.c2950456.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f4892ba.css",
+    "static/js/main.c2950456.js"
+  ]
+}
